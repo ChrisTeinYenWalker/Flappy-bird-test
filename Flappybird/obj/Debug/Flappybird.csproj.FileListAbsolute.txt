@@ -1,0 +1,10 @@
+C:\Users\walke\source\repos\Flappybird\Flappybird\bin\Debug\Flappybird.exe.config
+C:\Users\walke\source\repos\Flappybird\Flappybird\bin\Debug\Flappybird.exe
+C:\Users\walke\source\repos\Flappybird\Flappybird\bin\Debug\Flappybird.pdb
+C:\Users\walke\source\repos\Flappybird\Flappybird\obj\Debug\Flappybird.csproj.AssemblyReference.cache
+C:\Users\walke\source\repos\Flappybird\Flappybird\obj\Debug\Flappybird.game.resources
+C:\Users\walke\source\repos\Flappybird\Flappybird\obj\Debug\Flappybird.Properties.Resources.resources
+C:\Users\walke\source\repos\Flappybird\Flappybird\obj\Debug\Flappybird.csproj.GenerateResource.cache
+C:\Users\walke\source\repos\Flappybird\Flappybird\obj\Debug\Flappybird.csproj.CoreCompileInputs.cache
+C:\Users\walke\source\repos\Flappybird\Flappybird\obj\Debug\Flappybird.exe
+C:\Users\walke\source\repos\Flappybird\Flappybird\obj\Debug\Flappybird.pdb
